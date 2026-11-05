@@ -42,7 +42,7 @@ print(model.generate(length=40, seed="machine learning"))
 
 ## 🎬 Demo
 
-<img width="902" height="431" alt="image" src="https://github.com/user-attachments/assets/427200fd-deec-472e-aaca-56af9fb820c4" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a43a9964-e3ef-46ea-a22f-eef53adfaed3" />
 
 ## 🔄 Workflow
 
