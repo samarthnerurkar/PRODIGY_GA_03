@@ -1,4 +1,4 @@
-# 🔗 Markov Chain Text Generator
+# 🔗  Text Generation with Markov Chain  
 
 A from-scratch Python implementation of a Markov chain text generator. It learns word transition probabilities from a small corpus and generates new sentences. No external ML libraries needed.
 
