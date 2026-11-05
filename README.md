@@ -40,18 +40,9 @@ print(model.generate(length=40, seed="machine learning"))
 3. **Generate:** start from a seed state, sample the next token using the learned counts as weights, slide the window, repeat.
 4. **Clean up:** join tokens, fix spacing before punctuation, capitalize.
 
-## 📊 Sample Run
+## 🎬 Demo
 
-Trained on a short corpus about AI and machine learning:
-
-```
-Training complete.
-Model order: 2
-States learned: 87
-Vocabulary size: 64
-```
-
-The generated text is built from phrases in the corpus, for example sentences about machine learning and natural language processing.
+<img width="902" height="431" alt="image" src="https://github.com/user-attachments/assets/427200fd-deec-472e-aaca-56af9fb820c4" />
 
 ## 🔄 Workflow
 
